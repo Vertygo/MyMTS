@@ -1,0 +1,9 @@
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.csprojResolveAssemblyReference.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.AssemblyInfoInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.AssemblyInfo.cs
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\bin\Debug\netcoreapp2.0\MyTMS.Domain.deps.json
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\bin\Debug\netcoreapp2.0\MyTMS.Domain.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\bin\Debug\netcoreapp2.0\MyTMS.Domain.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Domain\obj\Debug\netcoreapp2.0\MyTMS.Domain.pdb

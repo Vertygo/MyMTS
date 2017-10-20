@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  mytms.api:
+    image: mytms.api
+    build:
+      context: ./MyTMS.Api
+      dockerfile: Dockerfile
+
+  mytms.web:
+    image: mytms.web
+    build:
+      context: ./MyTMS.web
+      dockerfile: Dockerfile
+    depends_on:
+      - mytms.api

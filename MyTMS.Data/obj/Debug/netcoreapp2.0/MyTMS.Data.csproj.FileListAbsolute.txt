@@ -1,0 +1,13 @@
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\MyTMS.Data.deps.json
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\MyTMS.Data.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\MyTMS.Data.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.AssemblyInfoInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.AssemblyInfo.cs
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\obj\Debug\netcoreapp2.0\MyTMS.Data.csprojResolveAssemblyReference.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\MyTMS.Domain.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\MyTMS.Domain.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Data\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml

@@ -1,0 +1,13 @@
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Api.deps.json
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Api.runtimeconfig.json
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Api.runtimeconfig.dev.json
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Api.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Api.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.csprojResolveAssemblyReference.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.csproj.CoreCompileInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.AssemblyInfoInputs.cache
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.AssemblyInfo.cs
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\obj\Debug\netcoreapp2.0\MyTMS.Api.pdb
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Domain.dll
+C:\Users\verth\Desktop\MyTMS\MyTMS.Api\bin\Debug\netcoreapp2.0\MyTMS.Domain.pdb
